@@ -1,0 +1,8 @@
+ Stream, Slope , Elevation , Vegetation
+ false , steep , high ,carrot
+ true , moderate , low ,raddish
+ true , steep , medium ,raddish
+ false , steep , medium ,carrot
+ false , flat , high ,corriander
+ true , steep , highest ,corriander
+ true , steep , high ,carrot
